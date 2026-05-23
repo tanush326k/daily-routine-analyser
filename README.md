@@ -70,3 +70,37 @@ The program:
 ---
 
 ## 📂 Project Structure
+daily-routine-analyser/
+│
+├── main.c # Core application (refactored version)
+├── README.md # Project documentation
+
+
+---
+
+## ▶️ How to Run
+
+### Compile
+```bash
+gcc main.c -o routine -lm
+Run
+./routine
+💡 Future Improvements
+Save daily logs to CSV file
+Add weekly progress tracking
+Graph-based visualization
+Habit streak system
+GUI version (Python/Qt or web dashboard)
+🏁 Inspiration
+
+This project was originally built during a hackathon in a rushed environment and later revived to demonstrate:
+
+“How small, unfinished ideas can evolve into structured, meaningful tools with the help of AI-assisted development.”
+
+👨‍💻 Author
+
+Built as a revived hackathon project showcasing:
+
+C programming fundamentals
+Refactoring with GitHub Copilot
+Practical habit tracking logic
