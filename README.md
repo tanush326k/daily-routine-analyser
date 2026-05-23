@@ -1,4 +1,4 @@
-<p align="center"> <img src="banner.svg" alt="Daily Routine Analyser Banner"> </p> <p align="center"> <b>Track • Reflect • Improve Your 24 Hours</b><br> A revived hackathon project powered by C + GitHub Copilot </p>
+<p align="center"> <img src="banner.svg" alt="DAILY ROUTINE ANALYSER"> </p> <p align="center"> <b>Track • Reflect • Improve Your 24 Hours</b><br> A revived hackathon project powered by C + GitHub Copilot </p>
 
 A simple but insightful C-based CLI tool that helps users reflect on their daily routine by analyzing how they distribute their 24 hours across study, sleep, exercise, and leisure.
 Originally built during a hackathon under time pressure, this project has now been **revived, refactored, and improved with GitHub Copilot assistance** to make it cleaner, more modular, and easier to extend.
