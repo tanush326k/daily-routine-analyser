@@ -1,7 +1,7 @@
-# 🧠 Daily Routine Analyser (Revived Hackathon Project)
-
+╔════════════════════════════════════════════════════════════════════╗
+║  🧠 DAILY ROUTINE ANALYSER — Track • Reflect • Improve Your Day   ║           (Revived Hackathon Project)
+╚════════════════════════════════════════════════════════════════════╝    
 A simple but insightful C-based CLI tool that helps users reflect on their daily routine by analyzing how they distribute their 24 hours across study, sleep, exercise, and leisure.
-
 Originally built during a hackathon under time pressure, this project has now been **revived, refactored, and improved with GitHub Copilot assistance** to make it cleaner, more modular, and easier to extend.
 
 ---
@@ -17,6 +17,23 @@ Originally built during a hackathon under time pressure, this project has now be
 - 🤖 Copilot-assisted improvements and refactoring
 
 ---
+🚀 Overview
+A C-based CLI productivity analyzer that helps users reflect on how they spend their 24 hours across:
+📚 Study
+😴 Sleep
+🏃 Exercise
+🎮 Leisure
+It validates time input, computes a productivity score, and provides simple behavioral insights to encourage better daily balance.
+Originally built during a hackathon under time pressure and later revived, refactored, and improved using GitHub Copilot.
+
+✨ Features
+
+⏱️ Validates total daily hours (max 24)
+📊 Calculates productivity score (/10)
+💡 Provides personalized habit insights
+🎨 Colorful CLI interface (ANSI styling)
+🧠 Balanced scoring logic based on lifestyle habits
+🤖 Refactored using GitHub Copilot suggestions
 
 ## 🧠 How It Works
 
